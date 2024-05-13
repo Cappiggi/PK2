@@ -1,0 +1,23 @@
+li {
+  margin: auto;
+  list-style: none;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 3px solid rgb(124, 123, 123);
+  border-radius: 10px;
+  display: flex;
+  width: 600px;
+  justify-content: space-between;
+}
+
+.check {
+  width: 24px;
+  height: 24px;
+}
+
+.container-input {
+  display: flex;
+  justify-content: space-around;
+  width: 320px;
+  margin-top: 10px;
+} 
